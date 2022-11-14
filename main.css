@@ -17,6 +17,7 @@ p,
 textarea,
 input {
     font-family: 'Ubuntu', sans-serif;
+    color: ;
 }
 
 header {
@@ -56,9 +57,14 @@ section .container,
 section {
     padding: 24px 0;
     background-color: rgb(58, 58, 59);
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
+footer {
+    background-color: #3A3A3B;
+    color: rgb(255, 255, 255);
+    padding: 16px 0;
+}
 .container {
     max-width: 1280px;
     width: 100%;
